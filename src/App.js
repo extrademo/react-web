@@ -13,7 +13,7 @@ import News from './Fruitkha/News';
 import Single_News from './Fruitkha/Single_News';
 import Contact from './Fruitkha/Contact';
 
-  // Project-15 :- Final Project
+  // Project-15 :- Final Project (User) (// git new account) 
     
 function App() {
 
